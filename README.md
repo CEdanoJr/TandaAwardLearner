@@ -1,3 +1,3 @@
-# Trial 35.
+Softmax Regression model (model no. 35)
 
-This is the 35th model for my project proposal.
+Implementing Machine Learning and Deep Learning techniques to predict and evaluate overtime awards.
